@@ -1,0 +1,44 @@
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderCheck.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.products.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDetail.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductManage.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemControl.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrdersManage.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PersonsManage.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HistoryOrders.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderDetails.resources
+C:\Users\meng\Documents\Class\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StoreSystem.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HistoryOrders.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemControl.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderDetails.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrdersManage.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PersonsManage.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDetail.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderCheck.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductManage.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StoreSystem.resources
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\meng\Documents\Class\My Code\AI_IcecreamStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

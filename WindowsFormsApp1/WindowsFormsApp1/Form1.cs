@@ -33,7 +33,7 @@ namespace WindowsFormsApp1
             panels.Add(panelDrink);
             menu.Menupanels(this.panels);
             #endregion
-            GlobalVar.CartButton = this.btnCart;
+
 
         }
 

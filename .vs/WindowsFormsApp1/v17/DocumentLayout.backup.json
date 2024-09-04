@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\meng\\documents\\class\\my code\\ai_icecreamstore\\windowsformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\globalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\globalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\itemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\itemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\itemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\itemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\personsmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\personsmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ordercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\historyorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\historyorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\historyorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\historyorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\personsmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\personsmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\ordersmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ordersmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\storesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\storesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\ordersmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\ordersmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\windowsformsapp1\\storesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345ACEB7-B005-441B-B231-D1BB07B130D2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\storesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StoreSystem.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\StoreSystem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StoreSystem.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\StoreSystem.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\StoreSystem.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:34:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrderDetails.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OrderDetails.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:51:25.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HistoryOrders.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\HistoryOrders.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\HistoryOrders.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\HistoryOrders.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\HistoryOrders.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:58:43.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HistoryOrders.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\HistoryOrders.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\HistoryOrders.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\HistoryOrders.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\HistoryOrders.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:51:56.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonsManage.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\PersonsManage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PersonsManage.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\PersonsManage.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PersonsManage.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAA3wMQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:00:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonsManage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\PersonsManage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PersonsManage.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\PersonsManage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\PersonsManage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:12:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrdersManage.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrdersManage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrdersManage.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrdersManage.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OrdersManage.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAA3wDIBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:16:14.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAJ0CAAAAAAAAAAAUwGYCAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:20:38.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StoreSystem.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\StoreSystem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StoreSystem.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\StoreSystem.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StoreSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:34:52.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersManage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrdersManage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrdersManage.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\OrdersManage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\OrdersManage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:12:55.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemControl.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ItemControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ItemControl.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ItemControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ItemControl.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:47:05.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemControl.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ItemControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ItemControl.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\ItemControl.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\ItemControl.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:16:00.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManage.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ProductManage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductManage.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ProductManage.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ProductManage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:53:31.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ProductManage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductManage.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\ProductManage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\ProductManage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:36:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAzwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:51:42.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Cart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Cart.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Cart.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Cart.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:00:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ProductDetail.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ProductDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:37:04.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Cart.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Cart.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Cart.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Cart.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:44:00.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:19:59.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderCheck.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrderCheck.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderCheck.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\OrderCheck.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\OrderCheck.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:38:37.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Products.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Products.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Products.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Products.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Products.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:13:28.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Products.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Products.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Products.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Products.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:12:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalVar.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\GlobalVar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\GlobalVar.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\GlobalVar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\GlobalVar.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:05:26.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDetail.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\ProductDetail.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\ProductDetail.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:22:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCheck.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrderCheck.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderCheck.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrderCheck.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OrderCheck.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA3wBwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:18:28.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Menu.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Menu.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Menu.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:03:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Animation.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Animation.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Animation.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Animation.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAAAcBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:49:31.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAcwMwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:21:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:20:13.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetails.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\meng\\Documents\\Class\\My Code\\AI_IcecreamStore\\WindowsFormsApp1\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\meng\\Documents\\Class\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\OrderDetails.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Project\\WindowsFormsApp1\\WindowsFormsApp1\\OrderDetails.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:45:22.876Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
