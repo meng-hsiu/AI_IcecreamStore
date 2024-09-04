@@ -5,3 +5,5 @@
 
 主要使用技術:C# ADO.NET、Linq
 資料庫:MSSQL
+
+資料庫設定檔:AIicecream.sql
